@@ -2,7 +2,7 @@ This project aims to provide a 100% AI-powered code to generate reports and summ
 
 The obstacles that I faced were misplacing words, syntax errors caused by writing my code incorrectly. Also, I encountered other mistakes, such as character limitations in summary generation. Not every AI model is free, and free AI models come with limitations. For instance, sustainability reports that I provided contain a large number of characters. Therefore, the AI model is unable to fully inspect and summarize every keyword and synonym. The output may appear with cut-off words, shortened sentences, or words that are not reported properly, making the summary unclear.
 
-In the end, I researched and asked for help online. I examined my code and tried to work within the limitations. I focused on creating slightly more structured insights without excessive cut-off words and sentence. I learned how to write a code and implement AI to generate text without relying only on regular harvesting and text summarization.
+In the end, I researched and asked for help online. I examined my code and tried to work within the limitations. I focused on creating slightly more structured insights without excessive cut-off words and sentence. Furthermore, I learned how to write a code and implement AI to generate text without relying only on regular harvesting and text summarization.
 
 
 
