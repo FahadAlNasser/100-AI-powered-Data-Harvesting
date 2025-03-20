@@ -5,6 +5,7 @@ The obstacles that I faced were misplacing words, syntax errors caused by writin
 In the end, I researched and asked for help online. I examined my code and tried to work within the limitations. I aimed to create a slightly more structured insights without excessive cut-off words and sentence. I learned how to write a code and implement AI to generate text without relying only on regular harvesting and text summarization.
 
 
+
 ### Example Output:
 Aramco Sustainability Report
 
